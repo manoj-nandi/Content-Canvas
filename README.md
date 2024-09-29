@@ -6,9 +6,10 @@ Welcome to the Content Canvas project! This application allows users to share an
 
 Here are some screenshots of the application:
 
-![Post List](https://github.com/yourusername/yourrepository/raw/main/path/to/Screenshot%202024-09-29%20170030.png)
+![Screenshot 2024-09-29 170030](https://github.com/user-attachments/assets/360f20c5-6fb1-4078-b0cf-1b8483196dde)
 
-![Post Details](https://github.com/yourusername/yourrepository/raw/main/path/to/Screenshot%202024-09-29%20170052.png)
+![Screenshot 2024-09-29 170052](https://github.com/user-attachments/assets/bc4f67e6-ed91-4e53-b9bb-492ef76ebb70)
+
 
 
 ## Features
