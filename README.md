@@ -1,6 +1,15 @@
 # Content Canvas
 
-Content Canvas is a simple blog application built with Express.js and EJS templating engine. It allows users to create, read, update, and delete blog posts seamlessly. This application aims to provide a platform for users to express themselves and share their thoughts.
+Welcome to the Content Canvas project! This application allows users to share and manage their blog posts easily.
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Post List](https://github.com/yourusername/yourrepository/raw/main/path/to/Screenshot%202024-09-29%20170030.png)
+
+![Post Details](https://github.com/yourusername/yourrepository/raw/main/path/to/Screenshot%202024-09-29%20170052.png)
+
 
 ## Features
 
@@ -39,8 +48,4 @@ Content Canvas is a simple blog application built with Express.js and EJS templa
 
 8. **Acknowledgments**: Give credit to anyone or anything that inspired your project or contributed to its development.
 
-### Additional Tips:
 
-- Update the placeholder links (like `https://github.com/yourusername/content-canvas.git`) with your actual GitHub repository link.
-- Include any additional features you plan to implement in the future.
-- If applicable, add screenshots or gifs demonstrating the application's functionality. This visual aid can help attract more users and contributors.
