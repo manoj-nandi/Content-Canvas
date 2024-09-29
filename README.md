@@ -6,10 +6,13 @@ Welcome to the Content Canvas project! This application allows users to share an
 
 Here are some screenshots of the application:
 
-![Screenshot 2024-09-29 170030](https://github.com/user-attachments/assets/360f20c5-6fb1-4078-b0cf-1b8483196dde)
+<div style="display: flex; justify-content: space-around;">
 
-![Screenshot 2024-09-29 170052](https://github.com/user-attachments/assets/bc4f67e6-ed91-4e53-b9bb-492ef76ebb70)
+  <img src="https://github.com/user-attachments/assets/360f20c5-6fb1-4078-b0cf-1b8483196dde" alt="Screenshot 2024-09-29 170030" style="width: 45%; height: auto;"/>
+  
+  <img src="https://github.com/user-attachments/assets/bc4f67e6-ed91-4e53-b9bb-492ef76ebb70" alt="Screenshot 2024-09-29 170052" style="width: 45%; height: auto;"/>
 
+</div>
 
 
 ## Features
