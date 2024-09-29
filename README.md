@@ -4,21 +4,20 @@ Welcome to the Content Canvas project! This application allows users to share an
 
 ## Screenshots
 
-## Screenshots
-
 Here are some screenshots of the application:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <img src="https://github.com/user-attachments/assets/6b827e77-394e-46b2-8114-216517a56761" alt="Screenshot 1" style="width: 45%; height: auto; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/6b827e77-394e-46b2-8114-216517a56761" alt="Screenshot 1" style="width: 40%; height: auto; margin: 10px; border-radius: 10px;"/>
   
-  <img src="https://github.com/user-attachments/assets/c09440f2-ed06-4382-a3a9-e7df622a31ea" alt="Screenshot 2" style="width: 45%; height: auto; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/c09440f2-ed06-4382-a3a9-e7df622a31ea" alt="Screenshot 2" style="width: 40%; height: auto; margin: 10px; border-radius: 10px;"/>
   
-  <img src="https://github.com/user-attachments/assets/a50fcf81-0470-4599-935c-8f5dd0ec0c04" alt="Screenshot 3" style="width: 45%; height: auto; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a50fcf81-0470-4599-935c-8f5dd0ec0c04" alt="Screenshot 3" style="width: 40%; height: auto; margin: 10px; border-radius: 10px;"/>
   
-  <img src="https://github.com/user-attachments/assets/d68c04bb-466c-4c47-9443-c93a912b3624" alt="Screenshot 4" style="width: 45%; height: auto; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d68c04bb-466c-4c47-9443-c93a912b3624" alt="Screenshot 4" style="width: 40%; height: auto; margin: 10px; border-radius: 10px;"/>
 
 </div>
+
 
 ## Features
 
